@@ -771,6 +771,7 @@
     <Compile Include="Assets\FungusExamples\FungusLua\Bindings\CustomScript.cs" />
     <Compile Include="Assets\FungusExamples\MonoBehEvents\SpriteColorChangeFromFungusMouseEvent.cs" />
     <Compile Include="Assets\move.cs" />
+    <Compile Include="Assets\sharder.cs" />
     <Compile Include="Assets\Talkable.cs" />
     <Compile Include="Assets\Talkable1.cs" />
     <Compile Include="Assets\Talkable2.cs" />
