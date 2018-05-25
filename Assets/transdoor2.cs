@@ -16,6 +16,6 @@ public class transdoor2 : MonoBehaviour {
 
     void OnTriggerEnter()
     {
-        Application.LoadLevel("second");
+        Application.LoadLevel("TestMap");
     }
 }
